@@ -13,20 +13,20 @@ I am a highly motivated student of **Administration of Network Computer Systems 
 - 🛠️ Building my personal **SOC Home Lab** (Coming this summer!).
 - 📜 Certificates: Currently preparing for the **CompTIA Security+**.
 
-- ### 🛠️ Tech Stack & Tools
+#### 🛠️ Tech Stack & Tools
 
-#### 🛡️ Defensive (Blue Team)
+### 🛡️ Defensive (Blue Team)
 - **Monitoring & Analysis:** SIEM (Splunk/Wazuh basics), Wireshark, tcpdump, IDS/IPS.
 - **Infrastructure:** Firewall configuration, Windows Active Directory, Linux/Windows Hardening.
 - **Methodology:** Log Analysis, Traffic Analysis, Incident Response basics.
 
-#### ⚔️ Offensive (Red Team / Pentesting)
+### ⚔️ Offensive (Red Team / Pentesting)
 - **Exploitation:** Metasploit Framework, Meterpreter, MS17-010 (EternalBlue).
 - **Scanning & Discovery:** Nmap, Gobuster, SQLmap.
 - **Web & Interception:** Burp Suite.
 - **Password Cracking:** John the Ripper, Hashcat, Hydra.
 
-#### 💾 Development & Databases
+### 💾 Development & Databases
 - **Languages:** SQL (Database querying), JavaScript Basics.
 - **Scripting:** PowerShell (Security focused), Bash basics.
   
@@ -37,7 +37,6 @@ I am a highly motivated student of **Administration of Network Computer Systems 
 - 🇬🇧 **English:** Professional Working Proficiency
   
 ### 📊 TryHackMe Stats
-*(Tip: Aquí puedes poner una imagen de tu badge de TryHackMe más adelante)*
 
 <img width="1087" height="240" alt="image" src="https://github.com/user-attachments/assets/68587876-66a9-4079-8871-5e3f7b802e4e" />
 
