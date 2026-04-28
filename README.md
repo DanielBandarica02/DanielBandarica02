@@ -32,15 +32,6 @@ I am a highly motivated student of **Administration of Network Computer Systems 
 * **Languages:** SQL (Database querying), JavaScript Basics.
 * **Scripting:** PowerShell (Security focused), Bash basics.
 
----
-
-## 🌐 Languages
-  **Spanish:** Native
-  **Romanian:** Native
-  **Catalan:** Native / Bilingual
-  **English:** Professional Working Proficiency
-
----
 
 ## 📊 TryHackMe Stats
 <img width="1087" height="240" alt="TryHackMe Stats" src="https://github.com/user-attachments/assets/68587876-66a9-4079-8871-5e3f7b802e4e" />
