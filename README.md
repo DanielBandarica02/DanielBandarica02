@@ -1,1 +1,1 @@
-
+I'm a cybersecurity enthusiast, deeply passionate about pentesting, threat analysis, and incident response tactics. Always curious and hands-on, I spend my free time tackling security challenges, and building tools to stay one step ahead.
